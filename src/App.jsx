@@ -1,9 +1,9 @@
 import { Route, Routes } from "react-router-dom";
 import { useState } from "react";
 
-import { Home } from "./pages/Home";
+import { Home } from "./pages/Home.jsx";
 import  Agency  from "./pages/Agency.jsx";
-import { Work } from "./pages/work";
+import { Work } from "./pages/Work.jsxork";
 
 import { useEffect, useRef } from "react";
 import gsap from "gsap";
